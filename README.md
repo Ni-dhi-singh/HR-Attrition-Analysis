@@ -19,19 +19,19 @@ The interactive dashboard provides key HR insights to help organizations reduce 
 
 🧩 Business Problem
 
-The HR team wanted to address high attrition rates by answering questions like:
+- The HR team wanted to address high attrition rates by answering questions like:
 
-Which age groups and job roles have the highest attrition?
+- Which age groups and job roles have the highest attrition?
 
-Does salary level or years at company affect attrition?
+- Does salary level or years at company affect attrition?
 
-Are there gender-based differences in attrition?
+- Are there gender-based differences in attrition?
 
-Which education background employees are leaving the most?
+- Which education background employees are leaving the most?
 
-What is the overall attrition rate and how can it be reduced?
+- What is the overall attrition rate and how can it be reduced?
 
-The goal was to identify key drivers of attrition and provide data-driven recommendations.
+- The goal was to identify key drivers of attrition and provide data-driven recommendations.
 
 
 
