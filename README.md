@@ -8,6 +8,8 @@ DataSet - https://github.com/Ni-dhi-singh/HR-Attrition-Analysis/blob/main/Employ
 
 SQL Queries PPT - https://github.com/Ni-dhi-singh/HR-Attrition-Analysis/blob/main/SQL.pdf
 
+Python EDA Report - https://github.com/Ni-dhi-singh/HR-Attrition-Analysis/blob/main/HR-Attrition-Analysis-Report.pdf
+
 
 📌 Project Overview
 
